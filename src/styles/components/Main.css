@@ -1,0 +1,13 @@
+.Main {
+  margin: 0;
+  padding: 20px 4rem;
+  height: var(--main-height);
+  overflow-y: auto;
+  overflow-x: hidden;
+}
+
+@media only screen and (max-width: 821px) {
+  .Main {
+    margin: 0 2rem;
+  }
+}

@@ -1,0 +1,829 @@
+{
+  "lat": "22.33971N",
+  "lon": "87.32501E",
+  "elevation": 42,
+  "units": "metric",
+  "daily": {
+    "data": [
+      {
+        "day": "2025-06-25",
+        "weather": "tstorm",
+        "icon": 14,
+        "summary": "Thunderstorms changing to cloudy by evening. Temperature 27/31 °C.",
+        "predictability": 4,
+        "temperature": 28.5,
+        "temperature_min": 26.8,
+        "temperature_max": 31.2,
+        "feels_like": 32,
+        "feels_like_min": 30.8,
+        "feels_like_max": 33.8,
+        "wind_chill": 31.2,
+        "wind_chill_min": 28.8,
+        "wind_chill_max": 34.8,
+        "dew_point": 23,
+        "dew_point_min": 18.5,
+        "dew_point_max": 25.2,
+        "wind": {
+          "speed": 3.1,
+          "gusts": 6.9,
+          "dir": "ESE",
+          "angle": 107
+        },
+        "cloud_cover": 100,
+        "pressure": 999,
+        "precipitation": {
+          "total": 6.2,
+          "type": "rain"
+        },
+        "probability": {
+          "precipitation": 66,
+          "storm": 36,
+          "freeze": 0
+        },
+        "ozone": 274.14,
+        "humidity": 72,
+        "visibility": 22.43
+      },
+      {
+        "day": "2025-06-26",
+        "weather": "tstorm",
+        "icon": 14,
+        "summary": "Thunderstorms in the morning, possible rain later. Temperature 27/33 °C.",
+        "predictability": 5,
+        "temperature": 29.8,
+        "temperature_min": 27.2,
+        "temperature_max": 32.5,
+        "feels_like": 33,
+        "feels_like_min": 31.5,
+        "feels_like_max": 35.2,
+        "wind_chill": 32.2,
+        "wind_chill_min": 29,
+        "wind_chill_max": 35.8,
+        "dew_point": 24.8,
+        "dew_point_min": 24.2,
+        "dew_point_max": 25.5,
+        "wind": {
+          "speed": 3.4,
+          "gusts": 6.6,
+          "dir": "SE",
+          "angle": 142
+        },
+        "cloud_cover": 96,
+        "pressure": 1000,
+        "precipitation": {
+          "total": 12.1,
+          "type": "rain"
+        },
+        "probability": {
+          "precipitation": 74,
+          "storm": 26,
+          "freeze": 0
+        },
+        "ozone": 273.05,
+        "humidity": 74,
+        "visibility": 22.9
+      },
+      {
+        "day": "2025-06-27",
+        "weather": "tstorm",
+        "icon": 14,
+        "summary": "Thunderstorms changing to cloudy by evening. Temperature 27/29 °C.",
+        "predictability": 5,
+        "temperature": 27.2,
+        "temperature_min": 26.5,
+        "temperature_max": 28.5,
+        "feels_like": 30.8,
+        "feels_like_min": 29.8,
+        "feels_like_max": 31.5,
+        "wind_chill": 29,
+        "wind_chill_min": 27.8,
+        "wind_chill_max": 31,
+        "dew_point": 25,
+        "dew_point_min": 24.2,
+        "dew_point_max": 26.2,
+        "wind": {
+          "speed": 2.4,
+          "gusts": 4.1,
+          "dir": "SSW",
+          "angle": 205
+        },
+        "cloud_cover": 100,
+        "pressure": 1000,
+        "precipitation": {
+          "total": 19.3,
+          "type": "rain"
+        },
+        "probability": {
+          "precipitation": 77,
+          "storm": 38,
+          "freeze": 0
+        },
+        "ozone": 274.44,
+        "humidity": 88,
+        "visibility": 19.77
+      },
+      {
+        "day": "2025-06-28",
+        "weather": "tstorm",
+        "icon": 14,
+        "summary": "Cloudy changing to thunderstorms in the afternoon. Temperature 26/31 °C.",
+        "predictability": 5,
+        "temperature": 28.2,
+        "temperature_min": 26.2,
+        "temperature_max": 31.2,
+        "feels_like": 32,
+        "feels_like_min": 30,
+        "feels_like_max": 34.8,
+        "wind_chill": 30.5,
+        "wind_chill_min": 28,
+        "wind_chill_max": 34.2,
+        "dew_point": 24,
+        "dew_point_min": 23.2,
+        "dew_point_max": 24.5,
+        "wind": {
+          "speed": 2.2,
+          "gusts": 5.2,
+          "dir": "SSW",
+          "angle": 204
+        },
+        "cloud_cover": 95,
+        "pressure": 998,
+        "precipitation": {
+          "total": 25.6,
+          "type": "rain"
+        },
+        "probability": {
+          "precipitation": 79,
+          "storm": 36,
+          "freeze": 0
+        },
+        "ozone": 273.61,
+        "humidity": 78,
+        "visibility": 20.92
+      },
+      {
+        "day": "2025-06-29",
+        "weather": "light_rain",
+        "icon": 10,
+        "summary": "Possible rain in the morning, light rain in the afternoon and evening. Temperature 26/31 °C.",
+        "predictability": 5,
+        "temperature": 28,
+        "temperature_min": 26,
+        "temperature_max": 30.5,
+        "feels_like": 30.5,
+        "feels_like_min": 28.8,
+        "feels_like_max": 33.5,
+        "wind_chill": 30,
+        "wind_chill_min": 27.8,
+        "wind_chill_max": 33,
+        "dew_point": 23.5,
+        "dew_point_min": 22.5,
+        "dew_point_max": 24.8,
+        "wind": {
+          "speed": 3.2,
+          "gusts": 9.4,
+          "dir": "WSW",
+          "angle": 254
+        },
+        "cloud_cover": 98,
+        "pressure": 997,
+        "precipitation": {
+          "total": 12,
+          "type": "rain"
+        },
+        "probability": {
+          "precipitation": 78,
+          "storm": 15,
+          "freeze": 0
+        },
+        "ozone": 274.23,
+        "humidity": 76,
+        "visibility": 23.46
+      },
+      {
+        "day": "2025-06-30",
+        "weather": "rain",
+        "icon": 11,
+        "summary": "Rain. Temperature 26/27 °C.",
+        "predictability": 3,
+        "temperature": 26,
+        "temperature_min": 25.5,
+        "temperature_max": 26.8,
+        "feels_like": 28,
+        "feels_like_min": 27.5,
+        "feels_like_max": 28.5,
+        "wind_chill": 27.8,
+        "wind_chill_min": 27,
+        "wind_chill_max": 28.5,
+        "dew_point": 22.8,
+        "dew_point_min": 22.2,
+        "dew_point_max": 23.5,
+        "wind": {
+          "speed": 3.7,
+          "gusts": 9.1,
+          "dir": "W",
+          "angle": 271
+        },
+        "cloud_cover": 100,
+        "pressure": 996,
+        "precipitation": {
+          "total": 24.2,
+          "type": "rain"
+        },
+        "probability": {
+          "precipitation": 93,
+          "storm": 0,
+          "freeze": 0
+        },
+        "ozone": 275.57,
+        "humidity": 82,
+        "visibility": 19.85
+      },
+      {
+        "day": "2025-07-01",
+        "weather": "psbl_rain",
+        "icon": 12,
+        "summary": "Light rain in the morning, possible rain in the afternoon. Temperature 26/29 °C.",
+        "predictability": 3,
+        "temperature": 27,
+        "temperature_min": 25.5,
+        "temperature_max": 28.8,
+        "feels_like": 28.5,
+        "feels_like_min": 25.8,
+        "feels_like_max": 30.8,
+        "wind_chill": 29,
+        "wind_chill_min": 25.8,
+        "wind_chill_max": 32,
+        "dew_point": 21.2,
+        "dew_point_min": 19.2,
+        "dew_point_max": 23,
+        "wind": {
+          "speed": 4.3,
+          "gusts": 10.1,
+          "dir": "W",
+          "angle": 275
+        },
+        "cloud_cover": 99,
+        "pressure": 996,
+        "precipitation": {
+          "total": 3,
+          "type": "rain"
+        },
+        "probability": {
+          "precipitation": 51,
+          "storm": 7,
+          "freeze": 0
+        },
+        "ozone": 275.88,
+        "humidity": 71,
+        "visibility": 21.45
+      },
+      {
+        "day": "2025-07-02",
+        "weather": "tstorm",
+        "icon": 14,
+        "summary": "Cloudy changing to light rain in the afternoon. Temperature 26/32 °C.",
+        "predictability": 4,
+        "temperature": 28.5,
+        "temperature_min": 26.2,
+        "temperature_max": 31.5,
+        "feels_like": 31.2,
+        "feels_like_min": 28.5,
+        "feels_like_max": 35.8,
+        "wind_chill": 31,
+        "wind_chill_min": 28.2,
+        "wind_chill_max": 36.2,
+        "dew_point": 22.2,
+        "dew_point_min": 20.8,
+        "dew_point_max": 24.2,
+        "wind": {
+          "speed": 3,
+          "gusts": 7.5,
+          "dir": "W",
+          "angle": 272
+        },
+        "cloud_cover": 98,
+        "pressure": 998,
+        "precipitation": {
+          "total": 6.2,
+          "type": "rain"
+        },
+        "probability": {
+          "precipitation": 45,
+          "storm": 13,
+          "freeze": 0
+        },
+        "ozone": 275.22,
+        "humidity": 68,
+        "visibility": 23.93
+      },
+      {
+        "day": "2025-07-03",
+        "weather": "tstorm_shower",
+        "icon": 15,
+        "summary": "Rain showers changing to thunderstorms in the afternoon. Temperature 27/32 °C.",
+        "predictability": 4,
+        "temperature": 29.2,
+        "temperature_min": 26.8,
+        "temperature_max": 32,
+        "feels_like": 32.2,
+        "feels_like_min": 29.8,
+        "feels_like_max": 34.5,
+        "wind_chill": 31.8,
+        "wind_chill_min": 28.8,
+        "wind_chill_max": 35,
+        "dew_point": 23.2,
+        "dew_point_min": 23,
+        "dew_point_max": 23.5,
+        "wind": {
+          "speed": 3.6,
+          "gusts": 7.6,
+          "dir": "W",
+          "angle": 262
+        },
+        "cloud_cover": 72,
+        "pressure": 999,
+        "precipitation": {
+          "total": 12.9,
+          "type": "rain"
+        },
+        "probability": {
+          "precipitation": 95,
+          "storm": 24,
+          "freeze": 0
+        },
+        "ozone": 272.25,
+        "humidity": 70,
+        "visibility": 21.95
+      },
+      {
+        "day": "2025-07-04",
+        "weather": "tstorm",
+        "icon": 14,
+        "summary": "Rain showers changing to thunderstorms in the afternoon. Temperature 27/31 °C.",
+        "predictability": 4,
+        "temperature": 29.2,
+        "temperature_min": 26.8,
+        "temperature_max": 31.2,
+        "feels_like": 32.8,
+        "feels_like_min": 30.2,
+        "feels_like_max": 35.2,
+        "wind_chill": 31.8,
+        "wind_chill_min": 28.8,
+        "wind_chill_max": 34.2,
+        "dew_point": 23.8,
+        "dew_point_min": 23.5,
+        "dew_point_max": 24.2,
+        "wind": {
+          "speed": 2.9,
+          "gusts": 7.6,
+          "dir": "W",
+          "angle": 267
+        },
+        "cloud_cover": 76,
+        "pressure": 999,
+        "precipitation": {
+          "total": 11.3,
+          "type": "rain"
+        },
+        "probability": {
+          "precipitation": 95,
+          "storm": 39,
+          "freeze": 0
+        },
+        "ozone": 271.69,
+        "humidity": 72,
+        "visibility": 21.41
+      },
+      {
+        "day": "2025-07-05",
+        "weather": "tstorm",
+        "icon": 14,
+        "summary": "Rain in the morning and evening, thunderstorms in the afternoon. Temperature 27/31 °C.",
+        "predictability": 4,
+        "temperature": 29.2,
+        "temperature_min": 26.8,
+        "temperature_max": 31.2,
+        "feels_like": 33,
+        "feels_like_min": 30.8,
+        "feels_like_max": 35.2,
+        "wind_chill": 31.5,
+        "wind_chill_min": 28.8,
+        "wind_chill_max": 34.2,
+        "dew_point": 24.2,
+        "dew_point_min": 23.8,
+        "dew_point_max": 24.5,
+        "wind": {
+          "speed": 2.6,
+          "gusts": 6.5,
+          "dir": "WSW",
+          "angle": 247
+        },
+        "cloud_cover": 97,
+        "pressure": 999,
+        "precipitation": {
+          "total": 10.4,
+          "type": "rain"
+        },
+        "probability": {
+          "precipitation": 95,
+          "storm": 46,
+          "freeze": 0
+        },
+        "ozone": 272.12,
+        "humidity": 74,
+        "visibility": 21.36
+      },
+      {
+        "day": "2025-07-06",
+        "weather": "tstorm",
+        "icon": 14,
+        "summary": "Rain showers changing to thunderstorms in the afternoon. Temperature 27/33 °C.",
+        "predictability": 4,
+        "temperature": 29.5,
+        "temperature_min": 27,
+        "temperature_max": 32.5,
+        "feels_like": 33.5,
+        "feels_like_min": 31,
+        "feels_like_max": 37,
+        "wind_chill": 32,
+        "wind_chill_min": 29,
+        "wind_chill_max": 35.5,
+        "dew_point": 24,
+        "dew_point_min": 23.8,
+        "dew_point_max": 24.5,
+        "wind": {
+          "speed": 2.4,
+          "gusts": 7.6,
+          "dir": "WSW",
+          "angle": 238
+        },
+        "cloud_cover": 83,
+        "pressure": 999,
+        "precipitation": {
+          "total": 15.4,
+          "type": "rain"
+        },
+        "probability": {
+          "precipitation": 95,
+          "storm": 43,
+          "freeze": 0
+        },
+        "ozone": 271.4,
+        "humidity": 72,
+        "visibility": 21.06
+      },
+      {
+        "day": "2025-07-07",
+        "weather": "tstorm",
+        "icon": 14,
+        "summary": "Rain changing to thunderstorms in the afternoon. Temperature 27/31 °C.",
+        "predictability": 4,
+        "temperature": 29,
+        "temperature_min": 26.5,
+        "temperature_max": 30.8,
+        "feels_like": 33,
+        "feels_like_min": 30.5,
+        "feels_like_max": 34.8,
+        "wind_chill": 31,
+        "wind_chill_min": 28,
+        "wind_chill_max": 33.2,
+        "dew_point": 24.2,
+        "dew_point_min": 24.2,
+        "dew_point_max": 24.8,
+        "wind": {
+          "speed": 2.6,
+          "gusts": 7.6,
+          "dir": "SW",
+          "angle": 218
+        },
+        "cloud_cover": 81,
+        "pressure": 999,
+        "precipitation": {
+          "total": 14.6,
+          "type": "rain"
+        },
+        "probability": {
+          "precipitation": 95,
+          "storm": 46,
+          "freeze": 0
+        },
+        "ozone": 270.67,
+        "humidity": 76,
+        "visibility": 20.87
+      },
+      {
+        "day": "2025-07-08",
+        "weather": "tstorm",
+        "icon": 14,
+        "summary": "Rain showers changing to thunderstorms in the afternoon. Temperature 27/32 °C.",
+        "predictability": 4,
+        "temperature": 29.2,
+        "temperature_min": 26.8,
+        "temperature_max": 31.5,
+        "feels_like": 33.5,
+        "feels_like_min": 30.8,
+        "feels_like_max": 36,
+        "wind_chill": 31.8,
+        "wind_chill_min": 28.8,
+        "wind_chill_max": 34.5,
+        "dew_point": 24.2,
+        "dew_point_min": 24,
+        "dew_point_max": 24.5,
+        "wind": {
+          "speed": 2.1,
+          "gusts": 6.2,
+          "dir": "WSW",
+          "angle": 250
+        },
+        "cloud_cover": 74,
+        "pressure": 999,
+        "precipitation": {
+          "total": 11.1,
+          "type": "rain"
+        },
+        "probability": {
+          "precipitation": 95,
+          "storm": 45,
+          "freeze": 0
+        },
+        "ozone": 270.7,
+        "humidity": 74,
+        "visibility": 21.56
+      },
+      {
+        "day": "2025-07-09",
+        "weather": "tstorm",
+        "icon": 14,
+        "summary": "Rain in the morning and evening, thunderstorms in the afternoon. Temperature 27/32 °C.",
+        "predictability": 4,
+        "temperature": 29.5,
+        "temperature_min": 27,
+        "temperature_max": 32.2,
+        "feels_like": 33,
+        "feels_like_min": 31,
+        "feels_like_max": 35.2,
+        "wind_chill": 32.2,
+        "wind_chill_min": 29,
+        "wind_chill_max": 35.2,
+        "dew_point": 23.8,
+        "dew_point_min": 23.5,
+        "dew_point_max": 24,
+        "wind": {
+          "speed": 2.9,
+          "gusts": 7.1,
+          "dir": "W",
+          "angle": 261
+        },
+        "cloud_cover": 100,
+        "pressure": 999,
+        "precipitation": {
+          "total": 10,
+          "type": "rain"
+        },
+        "probability": {
+          "precipitation": 95,
+          "storm": 39,
+          "freeze": 0
+        },
+        "ozone": 270.82,
+        "humidity": 71,
+        "visibility": 20.99
+      },
+      {
+        "day": "2025-07-10",
+        "weather": "tstorm",
+        "icon": 14,
+        "summary": "Thunderstorms changing to rain by evening. Temperature 27/32 °C, but a feels-like temperature of up to 37 °C.",
+        "predictability": 4,
+        "temperature": 29.2,
+        "temperature_min": 27,
+        "temperature_max": 31.8,
+        "feels_like": 33.8,
+        "feels_like_min": 30.5,
+        "feels_like_max": 36.8,
+        "wind_chill": 31.5,
+        "wind_chill_min": 29,
+        "wind_chill_max": 34.2,
+        "dew_point": 24.2,
+        "dew_point_min": 23.2,
+        "dew_point_max": 24.5,
+        "wind": {
+          "speed": 1.5,
+          "gusts": 7.5,
+          "dir": "SW",
+          "angle": 227
+        },
+        "cloud_cover": 100,
+        "pressure": 1000,
+        "precipitation": {
+          "total": 10.8,
+          "type": "rain"
+        },
+        "probability": {
+          "precipitation": 95,
+          "storm": 52,
+          "freeze": 0
+        },
+        "ozone": 272.44,
+        "humidity": 73,
+        "visibility": 20.85
+      },
+      {
+        "day": "2025-07-11",
+        "weather": "tstorm",
+        "icon": 14,
+        "summary": "Thunderstorms changing to rain by evening. Temperature 27/32 °C, but a feels-like temperature of up to 38 °C.",
+        "predictability": 4,
+        "temperature": 29.5,
+        "temperature_min": 26.8,
+        "temperature_max": 32,
+        "feels_like": 34.2,
+        "feels_like_min": 31.8,
+        "feels_like_max": 37.5,
+        "wind_chill": 31.8,
+        "wind_chill_min": 28.8,
+        "wind_chill_max": 34.5,
+        "dew_point": 24.2,
+        "dew_point_min": 24,
+        "dew_point_max": 24.5,
+        "wind": {
+          "speed": 1.1,
+          "gusts": 5,
+          "dir": "SW",
+          "angle": 234
+        },
+        "cloud_cover": 96,
+        "pressure": 1000,
+        "precipitation": {
+          "total": 7.9,
+          "type": "rain"
+        },
+        "probability": {
+          "precipitation": 95,
+          "storm": 51,
+          "freeze": 0
+        },
+        "ozone": 272.55,
+        "humidity": 74,
+        "visibility": 21.22
+      },
+      {
+        "day": "2025-07-12",
+        "weather": "tstorm",
+        "icon": 14,
+        "summary": "Thunderstorms changing to rain by evening. Temperature 27/32 °C, but a feels-like temperature of up to 38 °C.",
+        "predictability": 4,
+        "temperature": 30.2,
+        "temperature_min": 27.2,
+        "temperature_max": 32.2,
+        "feels_like": 35.5,
+        "feels_like_min": 32.2,
+        "feels_like_max": 38.2,
+        "wind_chill": 32.5,
+        "wind_chill_min": 29.2,
+        "wind_chill_max": 35.2,
+        "dew_point": 24.2,
+        "dew_point_min": 24,
+        "dew_point_max": 24.5,
+        "wind": {
+          "speed": 0.9,
+          "gusts": 4.4,
+          "dir": "WSW",
+          "angle": 246
+        },
+        "cloud_cover": 100,
+        "pressure": 1000,
+        "precipitation": {
+          "total": 5.6,
+          "type": "rain"
+        },
+        "probability": {
+          "precipitation": 92,
+          "storm": 51,
+          "freeze": 0
+        },
+        "ozone": 273.67,
+        "humidity": 70,
+        "visibility": 21.41
+      },
+      {
+        "day": "2025-07-13",
+        "weather": "tstorm",
+        "icon": 14,
+        "summary": "Thunderstorms. Temperature 28/33 °C, but a feels-like temperature of up to 38 °C.",
+        "predictability": 4,
+        "temperature": 30.2,
+        "temperature_min": 27.8,
+        "temperature_max": 32.8,
+        "feels_like": 35,
+        "feels_like_min": 32.8,
+        "feels_like_max": 37.8,
+        "wind_chill": 32.8,
+        "wind_chill_min": 29.8,
+        "wind_chill_max": 35.8,
+        "dew_point": 24.5,
+        "dew_point_min": 24.2,
+        "dew_point_max": 24.8,
+        "wind": {
+          "speed": 1.6,
+          "gusts": 5,
+          "dir": "SE",
+          "angle": 138
+        },
+        "cloud_cover": 97,
+        "pressure": 1000,
+        "precipitation": {
+          "total": 11.4,
+          "type": "rain"
+        },
+        "probability": {
+          "precipitation": 95,
+          "storm": 74,
+          "freeze": 0
+        },
+        "ozone": 274.32,
+        "humidity": 71,
+        "visibility": 21.07
+      },
+      {
+        "day": "2025-07-14",
+        "weather": "tstorm",
+        "icon": 14,
+        "summary": "Thunderstorms. Temperature 27/32 °C.",
+        "predictability": 4,
+        "temperature": 29.8,
+        "temperature_min": 27.2,
+        "temperature_max": 32,
+        "feels_like": 34.2,
+        "feels_like_min": 32.2,
+        "feels_like_max": 36.5,
+        "wind_chill": 32.2,
+        "wind_chill_min": 29.2,
+        "wind_chill_max": 35,
+        "dew_point": 24.8,
+        "dew_point_min": 24.2,
+        "dew_point_max": 25,
+        "wind": {
+          "speed": 2.3,
+          "gusts": 5.7,
+          "dir": "SSE",
+          "angle": 146
+        },
+        "cloud_cover": 70,
+        "pressure": 1000,
+        "precipitation": {
+          "total": 9.2,
+          "type": "rain"
+        },
+        "probability": {
+          "precipitation": 95,
+          "storm": 74,
+          "freeze": 0
+        },
+        "ozone": 273.19,
+        "humidity": 74,
+        "visibility": 21.29
+      },
+      {
+        "day": "2025-07-15",
+        "weather": "tstorm",
+        "icon": 14,
+        "summary": "Thunderstorms. Temperature 27/32 °C, but a feels-like temperature of up to 37 °C.",
+        "predictability": 4,
+        "temperature": 29.8,
+        "temperature_min": 27,
+        "temperature_max": 32.2,
+        "feels_like": 34.5,
+        "feels_like_min": 32.5,
+        "feels_like_max": 37.2,
+        "wind_chill": 32.2,
+        "wind_chill_min": 29,
+        "wind_chill_max": 35.2,
+        "dew_point": 24.8,
+        "dew_point_min": 24.8,
+        "dew_point_max": 24.8,
+        "wind": {
+          "speed": 2.3,
+          "gusts": 7.1,
+          "dir": "SSE",
+          "angle": 164
+        },
+        "cloud_cover": 63,
+        "pressure": 1000,
+        "precipitation": {
+          "total": 11.9,
+          "type": "rain"
+        },
+        "probability": {
+          "precipitation": 95,
+          "storm": 71,
+          "freeze": 0
+        },
+        "ozone": 271.81,
+        "humidity": 75,
+        "visibility": 22.55
+      }
+    ]
+  }
+}
